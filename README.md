@@ -8,7 +8,7 @@
 
 ### 🌱 Um pouco sobre mim:
 
-Sou apaixonada por ciência, tecnologia e educação. Minha trajetória começou na Biologia, onde aprendi a observar, analisar e cuidar dos sistemas vivos. Hoje, estou ampliando esse olhar com a computação, buscando integrar **Biotecnologia e Desenvolvimento de Software** para criar soluções inovadoras e acessíveis.
+Amo ciência, tecnologia e educação. Minha trajetória começou na Biologia, onde aprendi a observar, analisar e cuidar dos sistemas vivos. Hoje, estou ampliando esse olhar com a computação, buscando integrar **Biotecnologia e Desenvolvimento de Software** para criar soluções inovadoras e acessíveis.
 
 Tenho grande interesse em:
 - 🔬 Desenvolvimento de ferramentas digitais voltadas à **educação científica**;

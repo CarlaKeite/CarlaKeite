@@ -1,6 +1,6 @@
 ## 👩‍🔬 Olá, eu sou Carla Keite Machado!
 
-🎓 **Bióloga de formação**, Mestre em Saúde e Meio Ambiente com foco em Biotecnologia.  
+🎓 **Bióloga e Pedagoga de formação**, Mestre em Saúde e Meio Ambiente com foco em Biotecnologia.  
 💻 Atualmente **sou acadêmica do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** pelo SENAI - Joinville.  
 👩‍🏫 **Professora da Rede Municipal de Ensino de Joinville**, com paixão por compartilhar conhecimento e inovar em sala de aula.
 
